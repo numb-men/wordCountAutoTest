@@ -10,8 +10,8 @@ from HTMLTestRunner_Chart import HTMLTestRunner
 root = os.getcwd()
 
 # 输入输出标准答案文件文件夹路径
-input_dir = os.path.join(root, "input_work1")
-output_dir = os.path.join(root, "output_work1")
+input_dir = os.path.join(root, "input1")
+output_dir = os.path.join(root, "output1")
 
 # src源文件路径（包含Main.java、Lib.java、result.txt）
 src = '"221600219&221600212"\\src\\'
